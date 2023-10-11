@@ -1,0 +1,11 @@
+Inside the Zip file is the Masm 6.15 Assembler and Linker and 3 sample programs… prog1.asm, prog2.asm prog3.asm. Please unzip the files  in a folder of your choice. Test the Assembler and Linker by using the    make32.bat   file.
+
+In DOS, give the following commands:
+C:\Make32 prog1       to assemble and link prog1.asm
+
+Run the program using the following command:
+C:\> prog1
+
+Let me know if you have any problems.
+Dr. Saffer
+

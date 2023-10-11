@@ -1,0 +1,2 @@
+module mar7class {
+}

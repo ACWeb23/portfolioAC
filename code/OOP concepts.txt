@@ -1,0 +1,9 @@
+OOP concepts
+Encapsulation:
+combining properties(varibles) and behaviors(functions) together. AKA Class
+
+Information Hiding:
+attempting the user form using a class in the wrong way
+for example preventing access to base varibles in the main function and allowing those varibles to be accesed through functions to control how they are used. 
+
+

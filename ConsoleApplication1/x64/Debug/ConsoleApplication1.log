@@ -1,0 +1,105 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(24,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(25,9): error C2059: syntax error: '.'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(26,18): error C2065: 'define': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(26,25): error C2146: syntax error: missing ';' before identifier 'variables'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(26,25): error C2065: 'variables': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(26,35): error C2143: syntax error: missing ';' before 'for'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(26,39): error C2061: syntax error: identifier 'main'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(27,21): error C2146: syntax error: missing ';' before identifier 'bit'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(27,21): error C2065: 'bit': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(27,25): error C2146: syntax error: missing ';' before identifier 'value'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(27,25): error C2065: 'value': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,9): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,11): error C2146: syntax error: missing ';' before identifier 'DW'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,11): error C2065: 'DW': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,16): error C2059: syntax error: ';'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,21): error C2146: syntax error: missing ';' before identifier 'bit'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,21): error C2065: 'bit': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,25): error C2146: syntax error: missing ';' before identifier 'valus'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(28,25): error C2065: 'valus': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(29,9): error C2146: syntax error: missing ';' before identifier 'iret'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(29,9): error C2065: 'iret': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(29,14): error C2146: syntax error: missing ';' before identifier 'DW'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(29,14): error C2065: 'DW': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,9): error C2065: 'sub1_a': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,16): error C2146: syntax error: missing ',' before identifier 'DW'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,23): error C2065: 'define': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,30): error C2146: syntax error: missing ';' before identifier 'local'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,30): error C2065: 'local': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,36): error C2146: syntax error: missing ';' before identifier 'variables'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,36): error C2065: 'variables': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,46): error C2143: syntax error: missing ';' before 'for'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(30,50): error C2061: syntax error: identifier 'sub1'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,25): error C2065: 'Define': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,32): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,35): error C2146: syntax error: missing ';' before identifier 'bit'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,35): error C2065: 'bit': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,39): error C2146: syntax error: missing ';' before identifier 'variable'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,39): error C2065: 'variable': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,48): error C2146: syntax error: missing ';' before identifier 'to'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,48): error C2065: 'to': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,51): error C2146: syntax error: missing ';' before identifier 'store'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,51): error C2065: 'store': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,57): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,57): error C2065: 'the': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,61): error C2143: syntax error: missing ';' before 'return'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(34,68): error C2065: 'address': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(36,9): error C2146: syntax error: missing ';' before identifier 'main'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(36,14): error C2146: syntax error: missing ';' before identifier 'PROC'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(36,9): warning C4551: function call missing argument list
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(36,14): error C2065: 'PROC': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,9): error C2146: syntax error: missing ';' before identifier 'PUSH'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,9): error C2065: 'PUSH': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,14): error C2146: syntax error: missing ';' before identifier 'A'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,14): error C2065: 'A': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,17): error C2065: 'push': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,22): error C2146: syntax error: missing ';' before identifier 'value'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,22): error C2065: 'value': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,28): error C2146: syntax error: missing ';' before identifier 'A'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,28): error C2065: 'A': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,30): error C2146: syntax error: missing ';' before identifier 'onto'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,30): error C2065: 'onto': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,35): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,35): error C2065: 'the': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,39): error C2146: syntax error: missing ';' before identifier 'stack'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(37,39): error C2065: 'stack': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,9): error C2146: syntax error: missing ';' before identifier 'PUSH'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,9): error C2065: 'PUSH': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,14): error C2146: syntax error: missing ';' before identifier 'B'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,14): error C2065: 'B': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,17): error C2065: 'push': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,22): error C2146: syntax error: missing ';' before identifier 'value'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,22): error C2065: 'value': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,28): error C2146: syntax error: missing ';' before identifier 'B'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,28): error C2065: 'B': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,30): error C2146: syntax error: missing ';' before identifier 'onto'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,30): error C2065: 'onto': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,35): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,35): error C2065: 'the': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,39): error C2146: syntax error: missing ';' before identifier 'stack'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(38,39): error C2065: 'stack': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,9): error C2146: syntax error: missing ';' before identifier 'PUSH'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,9): error C2065: 'PUSH': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,14): error C2146: syntax error: missing ';' before identifier 'C'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,14): error C2065: 'C': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,17): error C2065: 'push': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,22): error C2146: syntax error: missing ';' before identifier 'value'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,22): error C2065: 'value': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,28): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,30): error C2146: syntax error: missing ';' before identifier 'onto'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,30): error C2065: 'onto': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,35): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,35): error C2065: 'the': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,39): error C2146: syntax error: missing ';' before identifier 'stack'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(39,39): error C2065: 'stack': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,9): error C2146: syntax error: missing ';' before identifier 'CALL'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,9): error C2065: 'CALL': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,14): error C2146: syntax error: missing ';' before identifier 'SUB1'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,14): error C2065: 'SUB1': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,20): error C2065: 'call': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,25): error C2146: syntax error: missing ';' before identifier 'procedure'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,25): error C2065: 'procedure': undeclared identifier
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(40,35): error C2146: syntax error: missing ';' before identifier 'sub1'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(41,9): error C2146: syntax error: missing ';' before identifier 'POP'
+C:\Users\andad\Documents\College\Programs!\ConsoleApplication1\ConsoleApplication1.cpp(41,13): fatal  error C1003: error count exceeds 100; stopping compilation

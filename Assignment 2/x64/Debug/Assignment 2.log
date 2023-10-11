@@ -1,0 +1,5 @@
+﻿  Assignment 2.cpp
+C:\Users\andad\Documents\College\Programs!\Assignment 2\Assignment 2.cpp(63): error C4700: uninitialized local variable 'difficulty' used
+C:\Users\andad\Documents\College\Programs!\Assignment 2\Assignment 2.cpp(64): error C4700: uninitialized local variable 'mode' used
+C:\Users\andad\Documents\College\Programs!\Assignment 2\Assignment 2.cpp(67): error C4700: uninitialized local variable 'player1' used
+C:\Users\andad\Documents\College\Programs!\Assignment 2\Assignment 2.cpp(68): error C4700: uninitialized local variable 'player2' used
